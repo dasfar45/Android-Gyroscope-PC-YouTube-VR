@@ -1,5 +1,5 @@
 # Android Gyroscope PC YouTube VR
-Este projeto permite transformar um smartphone Android em um controle giroscópico para vídeos 360° no YouTube
+Este projeto permite transformar um smartphone Android em um controle giroscópico (VR) no PC para vídeos 360° no YouTube
 
 1. Pré-requisitos
 
